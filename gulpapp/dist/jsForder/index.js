@@ -1,0 +1,1 @@
+function add(a,d){return a+d}var a=add(5,9);console.log(a);
